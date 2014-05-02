@@ -1,0 +1,9 @@
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\CreditGUI\CreditGUI\bin\Debug\CreditGUI.exe.config
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\CreditGUI\CreditGUI\bin\Debug\CreditGUI.exe
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\CreditGUI\CreditGUI\bin\Debug\CreditGUI.pdb
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\CreditGUI\CreditGUI\obj\Debug\CreditGUI.csprojResolveAssemblyReference.cache
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\CreditGUI\CreditGUI\obj\Debug\CreditGUI.Form1.resources
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\CreditGUI\CreditGUI\obj\Debug\CreditGUI.Properties.Resources.resources
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\CreditGUI\CreditGUI\obj\Debug\CreditGUI.csproj.GenerateResource.Cache
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\CreditGUI\CreditGUI\obj\Debug\CreditGUI.exe
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\CreditGUI\CreditGUI\obj\Debug\CreditGUI.pdb
